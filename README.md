@@ -1,11 +1,11 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Lisa  ! 👋
 
-Welcome to my GitHub profile! I am a [your profession/role] passionate about [key interests or skills].
+Welcome to my GitHub profile! I am a student  passionate about ai and game development .
 
 ## 🌟 Highlights
 
-- 🔭 Currently working on: [Project Name](link to project)
-- 🌱 Learning: [Skill or technology]
+- 🔭 Currently working on: story telling game (link to project)
+- 🌱 Learning: react 
 - 💬 Ask me about: [Topics you’re knowledgeable about]
 - 📫 Reach me at: [Your Email/LinkedIn]
 
