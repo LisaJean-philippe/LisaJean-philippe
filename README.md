@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**LisaJean-philippe/LisaJean-philippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a [your profession/role] passionate about [key interests or skills].
 
-Here are some ideas to get you started:
+## 🌟 Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: [Project Name](link to project)
+- 🌱 Learning: [Skill or technology]
+- 💬 Ask me about: [Topics you’re knowledgeable about]
+- 📫 Reach me at: [Your Email/LinkedIn]
+
+## 🛠 Skills
+
+- **Languages:** Python, HTML/CSS, JavaScript
+- **Tools:** Git, VS Code, Figma
+
+## 🚀 Projects
+
+1. [Project Title 1](link) — Brief description.
+2. [Project Title 2](link) — Brief description.
+
+##  Fun Facts
+
+- 🌍 I love traveling and exploring new cultures.
+- 🍳 Cooking is my stress-buster!
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
