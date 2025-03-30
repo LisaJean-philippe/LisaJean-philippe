@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I am a student  passionate about ai and game devel
 
 - 🔭 Currently working on: story telling game (link to project)
 - 🌱 Learning: react 
-- 💬 Ask me about: [Topics you’re knowledgeable about]
-- 📫 Reach me at: [Your Email/LinkedIn]
+- 💬 Ask me about: Java 
+- 📫 Reach me at: lj67621n@pace.edu
 
 ## 🛠 Skills
 
